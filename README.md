@@ -25,6 +25,8 @@ chrome-extensions
 
 ```
 帮助你自动填写金数据中的信息
+一个用来测试的链接：
+https://jinshuju.net/f/kNEOyn
 ```
 
 ## Maintainers
